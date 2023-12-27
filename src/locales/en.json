@@ -1,0 +1,200 @@
+{
+  "pageHead": {
+    "home": {
+      "title": "Combogic Tech. Carbon Solutions",
+      "desc": "Providing carbon management solutions throughout the entire lifecycle, assisting enterprises in precise carbon analysis, ESG carbon reduction planning, and seamless connection of carbon inspection and reduction for carbon-reducing companies through a high-resolution carbon data AI analysis platform. Structuring with technology, solving problems logically."
+    },
+    "blogs": {
+      "title": "Combogic Tech ESG Insights",
+      "desc": "ESG information in plain language, keeping up with international trends quickly."
+    }
+  },
+  "hero": {
+    "title": "We Can Do More Than Just Turning Off Lights",
+    "subtitle": [
+      "Track behavior with big data,",
+      "AI carbon reduction analysis, and an automatic carbon inspection system, all at your fingertips."
+    ]
+  },
+  "product": {
+    "title": "Integrated Carbon Management Solution",
+    "route": "Energy-efficient Transportation Management Optimization",
+    "iso": "ISO-Compliant Carbon Inspection Database",
+    "ai": "AI-Driven Carbon Reduction Plans"
+  },
+  "whychap": {
+    "title": "Data-Driven Vehicle Carbon Management Platform: CHAP-V",
+    "list": [
+      {
+        "title": "AI-Precision Vehicle Behavior Analysis",
+        "desc": "Using GIS (Geographic Information System) technology-driven GeoAI algorithms to decouple vehicle behavior, automatically identify high carbon-emitting driving factors, and formulate data-driven carbon reduction strategies, saving energy costs."
+      },
+      {
+        "title": "Unsupervised AI-Generated Carbon Reduction Strategies",
+        "desc": "Utilizing unsupervised AI algorithms to automatically generate carbon reduction strategy recommendations for aspects such as 'driving risk' and 'energy consumption management,' significantly saving manual interpretation time."
+      },
+      {
+        "title": "All-in-One SaaS Cloud Platform",
+        "desc": "Tailor modules based on customer enterprise types, including 'ISO Carbon Inspection,' 'High Carbon Emission Factor Alerts,' 'Carbon Reduction Strategy Analysis,' 'Real-time Green Transportation Management,' and 'Vehicle Information Analysis,' to assist in deploying green transportation strategies."
+      },
+      {
+        "title": "Carbon Asset Management and ESG Training",
+        "desc": "Our team holds ISO 14064 and 14067 lead verifiers and internal auditors qualifications. We can provide ESG consulting, carbon rights management consulting, and internal training services to help deploy carbon management data solutions correctly."
+      }
+    ]
+  },
+  "flow": {
+    "title": "CHAP-V: A Comprehensive Carbon Reduction Platform",
+    "labels": {
+      "before": "Current Practices",
+      "after": "CHAP-V"
+    },
+    "list": [
+      {
+        "title": "Rapid Deployment",
+        "beforeList": [
+          "Vehicle data relies on OBD-II, which varies greatly among different vehicle models, resulting in lengthy initial setup.",
+          "OBD-II connections to vehicle computers carry the risk of vehicle malfunctions."
+        ],
+        "afterList": [
+          "Instant use with in-vehicle installation; combined with GIS geographic information, it computes vehicle driving behavior in real-time.",
+          "Even without in-vehicle installation, CHAP-V can be deployed via mobile, facilitating agile fleet carbon management solutions."
+        ]
+      },
+      {
+        "title": "High Adaptability",
+        "beforeList": [
+          "Different vehicle models have different OBD-II data formats, often leading to data translation issues and data omissions."
+        ],
+        "afterList": [
+          "Deployment is possible for various vehicle models without integrating OBD-II systems, allowing for vehicle behavior analysis.",
+          "If vehicles are already equipped with in-vehicle devices, existing data can be integrated and analyzed via APIs."
+        ]
+      },
+      {
+        "title": "SaaS Cloud Platform",
+        "beforeList": [
+          "Manual collection of paper fuel receipts and employee commuting data is complex, time-consuming, and error-prone.",
+          "Complete calculation evidence is required when third-party verification is needed."
+        ],
+        "afterList": [
+          "Automated data collection processes; all vehicle behavior information is stored in the cloud platform with high-grade data security.",
+          "Automatic generation of fuel consumption and carbon emission calculation results, eliminating the possibility of manual calculation errors and enhancing verification credibility."
+        ]
+      },
+      {
+        "title": "AI Smart Interpretation",
+        "beforeList": [
+          "Even with collected vehicle driving behavior data, only generic statistical charts can be generated, requiring significant manual interpretation by managers."
+        ],
+        "afterList": [
+          "AI interpretation provides carbon reduction optimization suggestions to managers, saving time on manual interpretation.",
+          "Up to 35% carbon reduction potential has been observed through actual testing."
+        ],
+        "afterSlot": [
+          "AI Interpretation Automatically Generates",
+          "Carbon Reduction Strategies"
+        ]
+      }
+    ]
+  },
+  "member": {
+    "title": "Team Members",
+    "list": [
+      {
+        "name": "Wei-Ming Li",
+        "jobTitle": "Co-founder & CEO",
+        "profession": "AI / ML / Optimization",
+        "experienceList": [
+          "Over 9 years of experience in data algorithm design and startup team management in the semiconductor and IoV industry, specialized in problem-solving leveraging data modeling and ML system build-up."
+        ]
+      },
+      {
+        "name": "Kayson Cho",
+        "jobTitle": "Co-founder & CTO",
+        "profession": "Software Development / Geospatial Engineering",
+        "experienceList": [
+          "10+ years as a software and spatial information expert skilled in geodata processing and WebGIS development. Experience includes IoV, disaster prevention technology, and urban infrastructure. Geospatial expertise runs deep."
+        ]
+      },
+      {
+        "name": "TC Hung",
+        "jobTitle": "Co-founder & CPO",
+        "profession": "Product & Account Management",
+        "experienceList": [
+          "Cross-domain experience in both high-tech company R&D and sales teams. Specialized in programming and product/account management. On the road to recovery as a football player."
+        ]
+      },
+      {
+        "name": "Chi-Hang Chen",
+        "jobTitle": "Lead Data Scientist",
+        "profession": "Data Mining / ML",
+        "experienceList": [
+          "Over 3 years of experience in data mining, machine learning, and smart manufacturing; 2+ years in crypto high-frequency quant trading and software engineering. Feed me coffee to produce elegant code."
+        ]
+      },
+      {
+        "name": "Ka-Un Chiu",
+        "jobTitle": "ESG & Marketing Director",
+        "profession": "Marketing Strategy",
+        "experienceList": [
+          "Extensive experience in customized content strategy for startups, specialized in research integration, growth hacking, and humor-based creative writing with an interest in Stand-up Comedy and Japanese Manzai. No jokes here."
+        ]
+      }
+    ]
+  },
+  "blog": {
+    "title": {
+      "popular": "Popular Articles",
+      "newest": "Latest Articles",
+      "more": "More Articles"
+    },
+    "read": "Read Article",
+    "readMore": "Read All Articles",
+    "imageSource": "(Image Source)"
+  },
+  "contact": {
+    "desc": "The Combogic Tech professional team designs data-driven carbon management solutions, accompanying you on the journey of sustainable transformation.",
+    "info": {
+      "location": "3F, No. 335, Ruiguang Road, Neihu District, Taipei City 114, Taiwan"
+    },
+    "form": {
+      "name": {
+        "label": "Name",
+        "placeholder": "Please enter your name"
+      },
+      "com": {
+        "label": "Company",
+        "placeholder": "Please enter your company"
+      },
+      "tel": {
+        "label": "Phone",
+        "placeholder": "Please enter your phone"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Please enter your email"
+      },
+      "detail": {
+        "label": "Service Inquiry",
+        "placeholder": "You can share any thoughts or inquiries with us here"
+      }
+    },
+    "warn": {
+      "isRequired": "This field is required!",
+      "telInvalid": "Invalid phone format!",
+      "emailInvalid": "Invalid email format!",
+      "detailExceedsLimit": "Exceeded 1000 characters!"
+    },
+    "submit": {
+      "normal": "Submit",
+      "success": "Successfully sent",
+      "fail": "Failed to send"
+    }
+  },
+  "others": {
+    "cta": "Empower with data, embark on your path to net-zero",
+    "getDemo": "Get Demo",
+    "toHome": "Back to Home"
+  }
+}

@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.com-wrapper {
+  @apply py-20 w-full;
+}
+
+.com-container {
+  @apply w-11/12 max-w-[1400px] mx-auto
+  sm:w-5/6;
+}
+
+.com-card {
+  @apply bg-secondary-50 shadow-md rounded-2xl;
+}
+
+.com-title {
+  @apply mb-5 text-2xl text-primary-500 text-left font-semibold
+  sm:text-3xl;
+}
+
+/* buttons */
+.com-btn-text ,
+.com-btn-square ,
+.com-btn-pill {
+  @apply block w-fit px-4 py-1.5 text-sm font-semibold transition
+}
+
+.com-btn-square {
+  @apply text-white bg-primary-500 rounded
+  hover:bg-primary-400;
+}
+
+.com-btn-pill {
+  @apply text-white bg-primary-500 rounded-full
+  hover:bg-primary-400;
+}
+
+.com-btn-text {
+  @apply text-secondary-400
+  hover:text-primary-400;
+}
+
+/* for SEO，頁面不會顯示 */
+.com-seo {
+  @apply absolute -left-[9999px];
+}

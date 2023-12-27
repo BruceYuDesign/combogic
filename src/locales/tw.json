@@ -1,0 +1,200 @@
+{
+  "pageHead": {
+    "home": {
+      "title": "Combogic Tech. 櫛構科技",
+      "desc": "提供碳管理全生命週期中解決方案，透過高解析碳數據 AI 分析平台協助企業精確分析排碳因子，制定 ESG 碳減量計畫，協助減碳企業在碳盤查與碳減量上無痛連接資訊斷點。以科技梳理結構，以邏輯解決問題。"
+    },
+    "blogs": {
+      "title": "櫛構科技 ESG 觀點",
+      "desc": "講白話文的 ESG 第一手資訊，國際動態快速掌握。"
+    }
+  },
+  "hero": {
+    "title": "除了隨手關燈，我們可以做更多",
+    "subtitle": [
+      "大數據運具行為追蹤、",
+      "AI減碳分析、自動碳盤查系統，隨你掌握。"
+    ]
+  },
+  "product": {
+    "title": "一體化碳管理解決方案",
+    "route": "節能導向運具管理優化",
+    "iso": "ISO合規碳盤查資料庫",
+    "ai": "AI驅動的減碳計畫"
+  },
+  "whychap": {
+    "title": "數據驅動的車輛碳管理平台：CHAP-V",
+    "list": [
+      {
+        "title": "AI 精準分析車輛行為",
+        "desc": "使用 GIS (地理資訊系統)技術驅動的 GeoAI 演算法解耦車輛行為，自動辨別計算高碳排駕駛因子，制定數據賦能的減碳策略，節省能源成本。"
+      },
+      {
+        "title": "非監督式 AI 生成減碳策略",
+        "desc": "運用非監督式 AI 演算法針對「行車風險」、「能耗管理」等面向針對駕駛行為表現自動生成減碳策略建議，大量節省人工判讀時間。"
+      },
+      {
+        "title": "一站式 SaaS 雲端平台",
+        "desc": "依照客戶企業型態量身配置模組，包含：「ISO 碳盤查」、「高碳排因子警示」、「減碳策略分析」、「綠運輸即時管理」、「車輛資訊分析」等五大功能模組協助部署綠色運輸策略。"
+      },
+      {
+        "title": "碳資產管理與 ESG 訓練",
+        "desc": "團隊具 ISO 14064、14067 主導查證員與內部查證人員資格，我們能提供企業 ESG 諮詢 、碳權管理諮詢與內部訓練服務，協助正確部署碳管理數據解決方案。"
+      }
+    ]
+  },
+  "flow": {
+    "title": "CHAP-V：一條龍減碳平台",
+    "labels": {
+      "before": "現況做法",
+      "after": "CHAP-V"
+    },
+    "list": [
+      {
+        "title": "快速部署",
+        "beforeList": [
+          "車輛數據資料仰賴 OBD-II ，不同車型變動大，前期導入工時長。",
+          "OBD-II 連接行車電腦具有車輛故障風險。"
+        ],
+        "afterList": [
+          "車機接電即可馬上使用，結合 GIS 地理資訊即時運算車輛駕駛行為。",
+          "即便無車機亦可以手機部署 CHAP-V，敏捷導入車隊碳管理方案。"
+        ]
+      },
+      {
+        "title": "高適配性",
+        "beforeList": [
+          "不同車型之 OBD-II 資料格式不同，車機常有數據轉譯問題造成數據遺漏。"
+        ],
+        "afterList": [
+          "可在不串接 OBD-II 系統情況下針對各種車型部署，進行車輛行為分析。",
+          "若車輛已安裝車機，亦可針對現有資料進行 API 串接與分析。"
+        ]
+      },
+      {
+        "title": "SaaS 雲端平台",
+        "beforeList": [
+          "人工搜集紙本油單、員工通勤數據，過程繁雜耗時易出錯。",
+          "第三方查驗時也需附上完整計算證據。"
+        ],
+        "afterList": [
+          "自動化資料搜集流程，所有車輛行為資訊皆儲存於雲端平台，並具備高規格資安防護等級。",
+          "自動生成油耗與碳排放計算結果，免除人工計算錯誤可能，提高查驗可信度。"
+        ]
+      },
+      {
+        "title": "AI 智慧判讀",
+        "beforeList": [
+          "即便收集到車輛駕駛行為，只能生成一般統計圖表，仍需靠管理者用大量時間人工判讀。"
+        ],
+        "afterList": [
+          "AI 判讀提供管理者減碳優化建議，省去人工判讀時間。",
+          "實測最高可達 35% 的減碳空間。"
+        ],
+        "afterSlot": [
+          "AI 判讀自動生成",
+          "減碳策略"
+        ]
+      }
+    ]
+  },
+  "member": {
+    "title": "團隊成員",
+    "list": [
+      {
+        "name": "Wei-Ming Li",
+        "jobTitle": "Co-founder & CEO",
+        "profession": "AL / ML / Optimization",
+        "experienceList": [
+          "Over 9 years of experience in data algorithm design & startup team management in the semiconductor & IoV industry, specialized in problem-solving leveraging data modeling & ML system build-up."
+        ]
+      },
+      {
+        "name": "Kayson Cho",
+        "jobTitle": "Co-founder & CTO",
+        "profession": "Software Development / Geospatial Engineering",
+        "experienceList": [
+          "10+ years software & spatial information expert who is skilled in geodata processing & WebGIS development. Experiences include IoV, disaster prevention technology & urban infrastructure. Long live geospatial."
+        ]
+      },
+      {
+        "name": "TC Hung",
+        "jobTitle": "Co-founder & CPO",
+        "profession": "Product & Account Management",
+        "experienceList": [
+          "Cross-domain experience in both high-tech. company’s R&D & sales teams. Specialized in programming & product/account management. A football player in recovery."
+        ]
+      },
+      {
+        "name": "Chi-Hang Chen",
+        "jobTitle": "Lead Data Scientist",
+        "profession": "Data Mining / ML",
+        "experienceList": [
+          "3+ years experience in data mining, machine learning & smart manufacturing; 2+ years in crypto high-frequency quant trading & software engineering. Feed me coffee to produce elegant code."
+        ]
+      },
+      {
+        "name": "Ka-Un Chiu",
+        "jobTitle": "ESG & Marketing Director",
+        "profession": "Marketing Strategy",
+        "experienceList": [
+          "Full experience in customized content strategy for startups, specialized in research integration, growth hack and humor-based creative writing with interest in Stand-up Comedy and Japanese Manzai. No kidding."
+        ]
+      }
+    ]
+  },
+  "blog": {
+    "title": {
+      "popular": "熱門文章",
+      "newest": "最新文章",
+      "more": "更多文章"
+    },
+    "read": "閱讀文章",
+    "readMore": "閱讀所有文章",
+    "imageSource": "（圖片來源）"
+  },
+  "contact": {
+    "desc": "Combogic Tech. 專業團隊為您設計數據驅動的碳管理解決方案，永續轉型之路我們一同前行。",
+    "info": {
+      "location": "114台北市內湖區瑞光路335號3F"
+    },
+    "form": {
+      "name": {
+        "label": "姓名",
+        "placeholder": "請輸入您的姓名"
+      },
+      "com": {
+        "label": "公司",
+        "placeholder": "請輸入您的公司"
+      },
+      "tel": {
+        "label": "電話",
+        "placeholder": "請輸入您的電話"
+      },
+      "email": {
+        "label": "信箱",
+        "placeholder": "請輸入您的信箱"
+      },
+      "detail": {
+        "label": "需要服務的內容",
+        "placeholder": "有任何想法，都可以與我們聯絡"
+      }
+    },
+    "warn": {
+      "isRequired": "此為必填欄位！",
+      "telInvalid": "電話格式錯誤！",
+      "emailInvalid": "信箱格式錯誤！",
+      "detailExceedsLimit": "已超出1000字！"
+    },
+    "submit": {
+      "normal": "送出",
+      "success": "已成功發送",
+      "fail": "發送失敗"
+    }
+  },
+  "others": {
+    "cta": "數據賦能，開啟你的淨零之路",
+    "getDemo": "取得 Demo",
+    "toHome": "回首頁"
+  }
+}
